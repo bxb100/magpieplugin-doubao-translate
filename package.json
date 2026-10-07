@@ -1,0 +1,11 @@
+{
+  "name": "opencode-doubao-translate-auth",
+  "version": "0.5.0",
+  "description": "magpie/OpenCode provider plugin: 豆包网页翻译接口，以 OpenAI Chat Completions / Responses 和 Anthropic Messages 形式提供",
+  "type": "module",
+  "main": "./index.mjs",
+  "files": ["index.mjs", "README.md"],
+  "keywords": ["opencode", "opencode-plugin", "doubao", "translate"],
+  "license": "MIT",
+  "magpie": { "icon": "https://lf-flow-web-cdn.doubao.com/obj/flow-doubao/doubao/chat/favicon-doubao.png" }
+}
