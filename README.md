@@ -1,4 +1,8 @@
-# opencode-doubao-translate-auth
+此项目仅用于与 KISS 集成
+
+---
+
+# magpie-doubao-translate
 
 magpie 插件：把豆包网页翻译接口包装成 LLM API，支持流式和非流式。
 

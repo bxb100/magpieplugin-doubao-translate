@@ -1,5 +1,5 @@
 {
-  "name": "opencode-doubao-translate-auth",
+  "name": "magpie-doubao-translate",
   "version": "0.5.0",
   "description": "magpie/OpenCode provider plugin: 豆包网页翻译接口，以 OpenAI Chat Completions / Responses 和 Anthropic Messages 形式提供",
   "type": "module",
